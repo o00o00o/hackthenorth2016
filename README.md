@@ -1,6 +1,8 @@
 # hackthenorth2016
 Interface for non-profits to access reliable data regarding geographical region 
 
+![Alt text](/open/opendata.gif?raw=true)
+
 Issue: Non-profits needs a easy access to reliable data. This would be use to target select demographics, provide much needed services, and optomize resource allocation. 
 
 The BIG idea: This project is a proof of concept for increasing hands-on tech opprunities for students and increasing the impact that a non-profits can make. Summer interns with the support of Canadian Goverment Summer Student grant with no prior SQL experience can successfully parse the raw data and turn it into a Query-able database. From here the non-profit can use the data to model predictions and to create targeting stragizies. While the student interner recives valuable job experience that is not making coffee. 
